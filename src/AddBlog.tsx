@@ -6,6 +6,7 @@ import { BlogPost } from './types/post';
 interface Props {
   onSubmit: (post: BlogPost) => void;
   post?: BlogPost;
+  
 }
 
 const BlogPostForm: React.FC<Props> = ({ onSubmit, post }) => {
