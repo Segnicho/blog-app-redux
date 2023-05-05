@@ -1,3 +1,0 @@
-# Competitive-Programming
-# Contest
-# Guidely
